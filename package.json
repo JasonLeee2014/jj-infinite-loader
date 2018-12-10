@@ -1,7 +1,14 @@
 {
   "name": "jj-infinite-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "an infinite loader built for your vue app",
+  "keywords": ["scroll","infinite","refresh","loader","pull"],
+  "author": {"name" : "junjie-lee", "email" : "comfan2012@icloud.com"},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JasonLeee2014/jj-infinite-loader.git"
+  },
 
   "main": "dist/jj-infinite-loader.umd.js",
   "module": "dist/jj-infinite-loader.esm.js",
